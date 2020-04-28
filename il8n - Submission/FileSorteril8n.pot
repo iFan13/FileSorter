@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-12-23 21:56-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=cp1252\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: .\FileSorteril8n.py:41
+msgid "Documents"
+msgstr ""
+
+#: .\FileSorteril8n.py:41
+msgid "Executables"
+msgstr ""
+
+#: .\FileSorteril8n.py:41
+msgid "Images"
+msgstr ""
+
+#: .\FileSorteril8n.py:41
+msgid "Music"
+msgstr ""
+
+#: .\FileSorteril8n.py:41
+msgid "Videos"
+msgstr ""
+
+#: .\FileSorteril8n.py:41 .\FileSorteril8n.py:305 .\FileSorteril8n.py:398
+msgid "Custom Value"
+msgstr ""
+
+#: .\FileSorteril8n.py:144
+msgid "Cannot Sort!"
+msgstr ""
+
+#: .\FileSorteril8n.py:145
+msgid "FileSorter is in this directory. It cannot sort itself! Please select another directory"
+msgstr ""
+
+#: .\FileSorteril8n.py:146 .\FileSorteril8n.py:427
+msgid "Okay"
+msgstr ""
+
+#: .\FileSorteril8n.py:160 .\FileSorteril8n.py:174
+msgid "Default"
+msgstr ""
+
+#: .\FileSorteril8n.py:166 .\FileSorteril8n.py:326
+msgid "Custom"
+msgstr ""
+
+#: .\FileSorteril8n.py:180 .\FileSorteril8n.py:351 .\FileSorteril8n.py:450
+msgid "Log"
+msgstr ""
+
+#: .\FileSorteril8n.py:184
+msgid ""
+": Default\n"
+msgstr ""
+
+#: .\FileSorteril8n.py:184 .\FileSorteril8n.py:354
+msgid ""
+"\n"
+"Sort Type for "
+msgstr ""
+
+#: .\FileSorteril8n.py:184 .\FileSorteril8n.py:354
+msgid "Log Sort Date: "
+msgstr ""
+
+#: .\FileSorteril8n.py:201 .\FileSorteril8n.py:471
+msgid "Custom Sort"
+msgstr ""
+
+#: .\FileSorteril8n.py:218
+msgid ""
+"File Type - \tDefault options for file types is available. Blank(example: No search) as default line.\n"
+"\t\tCustom Value allows you to search for specific file extensions. Use comma's (\",\") for multiple file types."
+msgstr ""
+
+#: .\FileSorteril8n.py:219
+msgid "Folder Name - \tSelect the new or existing folder name of where you want the item to be sorted."
+msgstr ""
+
+#: .\FileSorteril8n.py:220
+msgid "File Type\t\t  Custom Value\t\tFile Path"
+msgstr ""
+
+#: .\FileSorteril8n.py:225
+msgid "Sort"
+msgstr ""
+
+#: .\FileSorteril8n.py:232 .\FileSorteril8n.py:474
+msgid "Quit"
+msgstr ""
+
+#: .\FileSorteril8n.py:314
+msgid "Select Folder"
+msgstr ""
+
+#: .\FileSorteril8n.py:354
+msgid ""
+": Custom\n"
+msgstr ""
+
+#: .\FileSorteril8n.py:365
+msgid " moved to "
+msgstr ""
+
+#: .\FileSorteril8n.py:421
+msgid "Done"
+msgstr ""
+
+#: .\FileSorteril8n.py:426
+msgid "Sort Done!"
+msgstr ""
+
+#: .\FileSorteril8n.py:465
+msgid ""
+"Thank you for choosing to use FileSorter. Language is automatically determined and changed to your local language.\n"
+"Click \"Browse for Folder\" button and browse to the folder you want to sort"
+msgstr ""
+
+#: .\FileSorteril8n.py:467
+msgid "Browse for Folder"
+msgstr ""
+
+#: .\FileSorteril8n.py:470
+msgid "Default Sort"
+msgstr ""
+
+#: .\FileSorteril8n.py:473
+msgid "Review your last sort"
+msgstr ""
+
