@@ -1,7 +1,7 @@
 If you have python installed, double click FileSorteril8n.pyw and it should run automatically.
 If you do not have python installed, https://www.python.org/downloads/ will have the latest versions available for download.
 If you wish to view with a console, change the file type from .pyw to .py
-Please keep files together as I was not able to compile into a full on .exe file. 
+Please keep files together. 
 
 The program is set to detect your machine's language and translate if I have the available translations. (I used es_MX and fr_CA - I proofed my translations with a friend from Venezuela and bilingual friend but translations may not still be perfect) Language will default to en_US otherwise.
 
